@@ -1,0 +1,92 @@
+#section{
+    padding: 20px 2px;
+    border: 1px solid transparent;
+    background: linear-gradient(to right, cyan,lightblue, lime);
+}
+#main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3em;
+}
+#information{
+    margin-left: 3em;
+}
+#head{
+    text-align: center;
+}
+#profile{
+    text-transform: capitalize;
+    color: blue;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#design{
+    font-weight: bold;
+    font-size: 18px;
+}
+#card{
+    padding: 20px;
+    background-color: white;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    width: 230px;
+    height: 260px;
+    margin-left: 100px;
+}
+center > img{
+    border: 10px solid transparent;
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+}
+#name{
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* text-align: center; */
+}
+#top{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    border-collapse: collapse;
+    margin-top: 5px;
+}
+#info{
+    font-size: 18px;
+}
+.role{
+    width: 200px;
+    padding: 5px;
+}
+.semi{
+    width: 20px;
+    padding: 5px;
+}
+.num{
+    padding: 5px;
+    width: 380px;
+}
+#general_info{
+    border: 1px solid transparent;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+}
+#other_info{
+    border: 1px solid transparent;
+    width: 650px;
+    border-radius: 10px;
+    margin-top: 4em;
+    padding: 20px;
+    background-color: white;    
+}
+#heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+#text{
+    text-align: justify;
+}
